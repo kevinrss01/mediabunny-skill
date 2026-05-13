@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mediabunny"
+  short_description: "Use Mediabunny for browser media processing"
+  default_prompt: "Use $mediabunny to implement a browser media conversion workflow."
